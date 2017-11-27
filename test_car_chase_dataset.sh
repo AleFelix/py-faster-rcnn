@@ -1,0 +1,1 @@
+./tools/test_net.py --gpu 0 --def ./models/car_chase/test.prototxt --net ./data/coco_models/coco_vgg16_faster_rcnn_final.caffemodel --imdb car_chase_val --cfg ./experiments/cfgs/config.yml
